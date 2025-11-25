@@ -1,4 +1,4 @@
-# data-analysis
+# My first data analysis project on Mental Health
 Workplace Well-Being: Analyzing Mental Health Stigma, Access to care and Behavioral Patterns
 SDG: Good Health and Well-being 
 
