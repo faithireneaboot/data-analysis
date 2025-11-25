@@ -1,5 +1,7 @@
 # data-analysis
-Projects connected to data analysis and science
+Workplace Well-Being: Analyzing Mental Health Stigma, Access to care and Behavioral Patterns
+SDG: Good Health and Well-being 
+
 Bridging the Gap in Mental Health: An Analysis of Stigma, Access, and Behavior in the Modern Workplace
 
 Mental health is an indispensable component of overall well-being, yet it remains one of the most significant and stigmatized challenges within modern workplace environments. Under United Nations Sustainable Development Goal 3 (Good Health and Well-being), there is a global mandate to "ensure healthy lives and promote well-being for all occupations," which explicitly includes the promotion of mental health.
